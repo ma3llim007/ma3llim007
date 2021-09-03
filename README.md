@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ma3llim007
+- 👋 Hi, I’m Mohd Sameer
 - 👀 I’m interested in web, mobile, ios developement , hacked and game
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on developer's
