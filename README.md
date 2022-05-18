@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Sameer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **mohdsameer68257@gmail.com**
+- 📫 Email **mohdsameer68257@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
