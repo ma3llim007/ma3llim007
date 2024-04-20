@@ -13,6 +13,7 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/mohdsameer68257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/mohdsameer68257" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100090607602056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090607602056" height="30" width="40" /></a>
 <a href="https://instagram.com/ma_3llim_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ma_3llim_007/" height="30" width="40" /></a>
+  <a href="https://dev.to/ma_3llim_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ma_3llim_007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
