@@ -21,28 +21,28 @@
 
 - Backend
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="javascript:void(0)">
     <img src="https://skillicons.dev/icons?i=js,express,nodejs,php" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="javascript:void(0)">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux" />
   </a>
 </p>
 
 - Database
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="javascript:void(0)">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
 - Tools
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="javascript:void(0)">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
