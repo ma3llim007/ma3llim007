@@ -1,17 +1,10 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <h1 align="center">Hi 👋, I'm Mohd Sameer</h1>
 <h3 align="center">A passionate Programmer from Hyderabad-India</h3>
-<p align="center">🌱 I’m currently learning Mern Stack Web Development</p>
+<p align="center">🌱 I’m currently learning <strong>Mern Stack Web Development</strong></p>
+<p align="center">📫 How to reach me <strong>mohdsameer68257@gmail.com</strong></p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br>
-
-- 🌱 I’m currently learning **Mern Stack Web Development**
-- 📫 How to reach me **mohdsameer68257@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/ma_3llim_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ma_3llim_007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd-sameer-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-sameer-web/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17946678/ma-3llim-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17946678/ma-3llim-007" height="30" width="40" /></a>
