@@ -48,12 +48,10 @@
 </p>
 
 <br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="left">GitHub Stats:</h3>
-<div align="center">
-  ![ma3llim007's Stats](https://github-readme-stats.vercel.app/api?username=ma3llim007&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
-  ![ma3llim007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ma3llim007&theme=chartreuse-dark&hide_border=false)
-  ![ma3llim007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma3llim007&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
-</div>
+
+![ma3llim007's Stats](https://github-readme-stats.vercel.app/api?username=ma3llim007&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+
+![ma3llim007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ma3llim007&theme=chartreuse-dark&hide_border=false)
+
+![ma3llim007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma3llim007&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
